@@ -1,0 +1,13 @@
+{
+    "name": "tchappui/scherzo-controller",
+    "description": "Scherzo-controller is the base controller component used by the Scherzo educational web framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thierry Chappuis",
+            "email": "thierry@chappuis.io"
+        }
+    ],
+    "require": {}
+}
